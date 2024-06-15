@@ -1,0 +1,14 @@
+[
+  {
+    "id" : "1",
+    "namaMakanan" : "Rendang",
+    "keteranganMakanan" : "Makanan Khas Padang",
+    "gambar" : "Rendang"
+  },
+  {
+    "id" : "2",
+    "namaMakanan" : "Tahu Sumedang",
+    "keteranganMakanan" : "Makanan Khas Sumedang",
+    "gambar" : "tahu"
+  }
+]
